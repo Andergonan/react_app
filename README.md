@@ -9,7 +9,7 @@ test projects in react
 - adresář pomocí **npm** nastavíme
 
 #### Práce s npm
-> - `npm -v` - zobrazí aktuální verzi naistalovaného npm
-> - `npm init` - inicializuje nový projekt a vytvoří **package.json**, který obsahuje metadata a závislosti pro daný projekt
-> - `npm i typescript -g` - nainstalije typescript
-> - `npm i react react-dom node` - nainstaluje **react**, **react-dom** (knihovna rozhraní mezi webovým prohlížečem a reactem) a **node.js**
+- `npm -v` - zobrazí aktuální verzi naistalovaného npm
+- `npm init` - inicializuje nový projekt a vytvoří **package.json**, který obsahuje metadata a závislosti pro daný projekt
+- `npm i typescript -g` - nainstalije typescript
+- `npm i react react-dom node` - nainstaluje **react**, **react-dom** (knihovna rozhraní mezi webovým prohlížečem a reactem) a **node.js**
