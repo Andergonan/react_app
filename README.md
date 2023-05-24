@@ -15,6 +15,6 @@
 - `tsc --init` - inicializuje projekt s použitím TypeScriptu (konfigurace pro kompilaci a chování TypeScriptu)
 
 ### Konfigurace tsconfig.json
- - `// "jsx": "preserve"`, **na** `"jsx": "react-native",` *(přípona .js + zůstává .jsx zápis)*
+ - `// "jsx": "preserve",` **na** `"jsx": "react-native",` *(přípona .js + zůstává .jsx zápis)*
  - `// "outDir": "./",` **na** `"outDir": "dist",` *(uložení zkompilovaných souborů)*
  - `// "rootDir": "./",` **na** `"rootDir": "src",` *(zdrojové soubory)*
