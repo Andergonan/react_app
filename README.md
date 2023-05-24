@@ -18,3 +18,8 @@
  - `// "jsx": "preserve",` **na** `"jsx": "react-native",` *(přípona .js + zůstává .jsx zápis)*
  - `// "outDir": "./",` **na** `"outDir": "dist",` *(uložení zkompilovaných souborů)*
  - `// "rootDir": "./",` **na** `"rootDir": "src",` *(zdrojové soubory)*
+
+### Tvorba potřebných adresářů dle konvencí next-js
+- SLOŽKA S PORJEKTEM
+ - src
+  - pages
