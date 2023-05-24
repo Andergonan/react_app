@@ -10,5 +10,5 @@
 - `npm init` - inicializuje nový projekt a vytvoří **package.json**, který obsahuje metadata a závislosti pro daný projekt
 - `npm i typescript -g` - nainstalije typescript
 - `npm i react react-dom node` - nainstaluje **react**, **react-dom** (knihovna rozhraní mezi webovým prohlížečem a reactem) a **node.js**
-- `npm i @types/react` - nainstaluje typy pro react (rozšíří IDE o react balíček, automaticky pank např. dokončuje kód)
+- `npm i @types/react-dome` - nainstaluje typy pro react (rozšíří IDE o react balíček, automaticky pank např. dokončuje kód)
 - `npm config set registry https://registry.npmjs.org/` - nastaví registrační URL, které NPM používá pro stahování balíčků
