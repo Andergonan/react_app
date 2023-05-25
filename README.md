@@ -1,5 +1,6 @@
 # Jak začít s react
 - z internetu si potřebujeme stáhnout **npm** a **node.js**
+- do prohlížeče stáhnoout rozšíření **react developer tools**
 
 ## Nastavení projektu
 - vytvoříme si adresář, v jakém budeme projekt vyvíjet
